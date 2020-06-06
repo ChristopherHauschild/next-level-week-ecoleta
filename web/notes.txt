@@ -1,0 +1,6 @@
+// JSX -> Sintaxe de XML dentro do Javascript
+
+// { useState }
+   - useState(0) -> [valor state, func para atualizar valor state]
+
+// estado para array ou objeto precisa ter o tipo especificado

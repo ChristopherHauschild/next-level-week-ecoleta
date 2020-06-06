@@ -1,0 +1,12 @@
+// Rota > endereço completo da aplicação
+// Recurso > qual entidade está sendo acessada ('/users')
+
+// Request Params -> parametros que vem na propria rota que identificam um recurso
+// Query Param -> parametros opcionais (filtros, paginação)
+// Reques Body -> parametros para criacao/utilizacao
+
+// Migrations -> histórico do banco de dados
+
+// index, show, store, update, destroy
+  // index - lista varios
+  // show - lista um
