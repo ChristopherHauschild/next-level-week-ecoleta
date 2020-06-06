@@ -18,7 +18,7 @@ A aplicação trata-se de um marketplace para pontos de coletas de resíduos, na
 ### Aplicação Mobile: :iphone:
 
 <p align="center">
-  <img src="https://github.com/ChristopherHauschild/next-level-week-ecoleta/blob/master/Mobile.gif?raw=true" height="500px" />
+  <img src="https://github.com/ChristopherHauschild/next-level-week-ecoleta/blob/master/Mobile.gif?raw=true" height="650px" />
 </p>
 
 <hr/>
