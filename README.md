@@ -12,16 +12,16 @@ A aplicação trata-se de um marketplace para pontos de coletas de resíduos, na
 ### Aplicação Web: :computer:
 
 <p align="center">
-  <img src="https://github.com/ChristopherHauschild/ecoleta-next-level-week/blob/master/Ecoleta.PNG?raw=true" width="1000px"/>
+  <img src="https://github.com/ChristopherHauschild/next-level-week-ecoleta/blob/master/Web.gif?raw=true" width="1000px"/>
 </p>
 
-### Aplicação Mobile: :calling:
+### Aplicação Mobile: :iphone:
 
-<div display="flex">
-  <img src="" />
-  <img src="" />
-  <img src="" />
-</div>
+<p align="center">
+  <img src="https://github.com/ChristopherHauschild/next-level-week-ecoleta/blob/master/Mobile.gif?raw=true" />
+</p>
+
+<hr/>
 
 ## Tecnologias utilizadas: :rocket:
 
@@ -39,13 +39,20 @@ A aplicação trata-se de um marketplace para pontos de coletas de resíduos, na
 
 ``` cd server ``` -> 
 ``` npm install || yarn ``` -> 
-``` npx dev || yarn dev ```
+``` npm run dev || yarn dev ```
 
 #### Para instalar as dependências e executar o <i>Frontend</i>
 
 ``` cd frontend ``` -> 
 ``` npm install || yarn ``` -> 
-``` npx start // ou yarn start ```
+``` npm start // ou yarn start ```
+
+#### Para instalar as dependências e executar o <i>Mobile</i>
+
+``` cd app-mobile ``` -> 
+``` npm install || yarn  ``` -> 
+``` npm start || yarn ```
+
 
 <hr>
 
